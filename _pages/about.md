@@ -2,6 +2,8 @@
 layout: about
 title: about
 permalink: /
+nav: true
+nav_order: 1
 subtitle: "PhD Student @ NUS | Human-Computer Interaction & Human-Centered AI"
 
 profile:
