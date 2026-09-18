@@ -7,7 +7,7 @@ subtitle: "PhD Student @ NUS | Human-Computer Interaction & Human-Centered AI"
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p><a href="mailto:mypark@u.nus.edu">mypark@u.nus.edu</a></p>
 
