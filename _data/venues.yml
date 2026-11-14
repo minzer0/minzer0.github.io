@@ -1,9 +1,10 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"IJETHE":
+  url: https://educationaltechnologyjournal.springeropen.com/
+  color: "#1f6f8b"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"CHI EA":
+  url: https://chi2025.acm.org/
+  color: "#c2410c"
 
-"Vision":
-  color: "#009f36"
+"HCI Korea":
+  color: "#4f46e5"
