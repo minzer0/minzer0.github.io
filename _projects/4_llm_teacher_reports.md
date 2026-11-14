@@ -15,3 +15,5 @@ As part of a larger effort on AI copilots for adaptive, teacher-augmented classr
 - Identified the potential and limitations of LLMs in supporting competency assessment and report generation
 - Built a counseling chatbot and analysis models supporting AI-driven student coaching, and co-developed an integrated platform for personalized,
   teacher-augmented learning
+
+📄 [HCI Korea 2024 paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714640)

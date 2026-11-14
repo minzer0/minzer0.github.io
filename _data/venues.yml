@@ -3,8 +3,13 @@
   color: "#1f6f8b"
 
 "CHI EA":
-  url: https://chi2025.acm.org/
+  url: https://dl.acm.org/doi/10.1145/3706599.3719684
   color: "#c2410c"
 
 "HCI Korea":
+  url: https://www.dbpia.co.kr/journal/publicationDetail?publicationId=PLCT00002090
   color: "#4f46e5"
+
+"M.S. Thesis":
+  url: /assets/pdf/Minyoung_Park_MS_Thesis.pdf
+  color: "#0f766e"

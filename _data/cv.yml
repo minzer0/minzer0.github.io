@@ -33,7 +33,7 @@ cv:
         end_date: 2026-02
         score: "GPA 4.5/4.5 (Major GPA 4.5/4.5)"
         highlights:
-          - "Thesis: Designing empathetic self-disclosure in LLM-based chatbots to enhance students' self-reflection, engagement, and assessment accuracy in academic stress assessment"
+          - "Thesis: [Designing empathetic self-disclosure in LLM-based chatbots to enhance students' self-reflection, engagement, and assessment accuracy in academic stress assessment](/assets/pdf/Minyoung_Park_MS_Thesis.pdf)"
 
       - institution: Seoul National University of Science and Technology
         location: Seoul, South Korea
@@ -78,10 +78,33 @@ cv:
           - Kyoungwon Seo
         publisher: Proceedings of HCI Korea, 560–568 (Best Paper Award)
         journal: Proceedings of HCI Korea (Best Paper Award)
-        releaseDate: 2025
-        date: 2025
+        releaseDate: 2025-02
+        date: 2025-02
+        url: https://conference.hcikorea.org/hcik2025/programs/awarded_paper.asp
 
-    Research Experience:
+      - title: "ChatGPT as an assistant of human teacher: Student competency analysis through prompt engineering"
+        authors:
+          - C. Song
+          - "**Minyoung Park**"
+          - D. Kim
+          - Kyoungwon Seo
+        publisher: Proceedings of HCI Korea, 175–182
+        journal: Proceedings of HCI Korea
+        releaseDate: 2024
+        date: 2024
+        url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714640
+
+      - title: "Passive vs. Active: Which behavior is better for predicting at-risk students in online learning?"
+        authors:
+          - "**Minyoung Park**"
+          - Kyoungwon Seo
+        publisher: Proceedings of HCI Korea, 815–821
+        journal: Proceedings of HCI Korea
+        releaseDate: 2023
+        date: 2023
+        url: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229756
+
+    Experience:
       - company: AI4SG Lab & Palette Lab, National University of Singapore
         position: Graduate Researcher (Advisors — Prof. Yi-Chieh Lee & Prof. Jane E)
         location: Singapore
@@ -118,24 +141,8 @@ cv:
           - "Prediction of at-risk students from online learning data (Feb 2022 – Feb 2023, Lead Researcher): characterized OULAD engagement patterns under the ICAP framework; built an at-risk prediction model for early intervention."
 
     Teaching:
-      - company: Seoul National University of Science and Technology
-        position: "Teaching Assistant — Human-centered AI"
-        location: Seoul, South Korea
-        start_date: 2025-09
-        end_date: 2025-12
-        highlights:
-          - Co-developed the course syllabus
-          - Designed a chatbot development assignment emphasizing safety, accuracy, and human-centered interaction
-          - Supported lectures, guided students on assignments, and graded exams
-
-      - company: Seoul National University of Science and Technology
-        position: "Teaching Assistant — Deep Learning"
-        location: Seoul, South Korea
-        start_date: 2024-09
-        end_date: 2024-12
-        highlights:
-          - Designed a final project applying CNN-based models to predict drivers' physical and cognitive states from image data
-          - Supported lectures, guided students on project implementation, and graded assignments and exams
+      - bullet: "**Teaching Assistant, Human-centered AI** — Seoul National University of Science and Technology, Fall 2025. Co-developed the course syllabus; designed a chatbot development assignment emphasizing safety, accuracy, and human-centered interaction; supported lectures and graded exams."
+      - bullet: "**Teaching Assistant, Deep Learning** — Seoul National University of Science and Technology, Fall 2024. Designed a final project applying CNN-based models to predict drivers' physical and cognitive states from image data; supported lectures and graded assignments and exams."
 
     Awards:
       - title: NUS Research Scholarship
@@ -161,8 +168,7 @@ cv:
         summary: 2021 – 2024
 
     Patents:
-      - name: Self-Disclosure Chatbot and Its Method Assisting Accurate Academic Stress Assessment through Self-Reflection
-        summary: Korean Patent Application No. 10-2024-0102214, filed Aug. 2024
+      - bullet: "**Self-Disclosure Chatbot and Its Method Assisting Accurate Academic Stress Assessment through Self-Reflection** — Korean Patent Application No. 10-2024-0102214, filed Aug. 2024"
 
     Skills:
       - name: Research

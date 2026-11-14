@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📜 Completed my M.S. in Applied Artificial Intelligence at Seoul National University of Science and Technology (GPA 4.5/4.5), with a thesis on empathetic self-disclosure in LLM-based chatbots.
+📜 Completed my M.S. in Applied Artificial Intelligence at Seoul National University of Science and Technology (GPA 4.5/4.5), with a thesis on empathetic self-disclosure in LLM-based chatbots ([PDF](/assets/pdf/Minyoung_Park_MS_Thesis.pdf)).

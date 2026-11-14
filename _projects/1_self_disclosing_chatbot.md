@@ -21,4 +21,4 @@ otherwise identical chatbot without self-disclosure, the self-disclosing chatbot
 
 This work became my master's thesis, a patent application, and papers at IJETHE, CHI 2025 (LBW), and HCI Korea 2025 (Best Paper Award).
 
-🗣️ [Try the live demo](https://hai.seoultech.ac.kr/research/demo-self-disclosure.html) · 📄 [IJETHE paper](https://doi.org/10.1186/s41239-025-00527-z) · 📄 [CHI EA paper](https://doi.org/10.1145/3706599.3719684)
+🗣️ [Try the live demo](https://hai.seoultech.ac.kr/research/demo-self-disclosure.html) · 📄 [IJETHE paper](https://doi.org/10.1186/s41239-025-00527-z) · 📄 [CHI EA paper](https://doi.org/10.1145/3706599.3719684) · 🏆 [HCI Korea 2025](https://conference.hcikorea.org/hcik2025/programs/awarded_paper.asp) · 🎓 [M.S. thesis (PDF)](/assets/pdf/Minyoung_Park_MS_Thesis.pdf)

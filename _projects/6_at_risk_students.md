@@ -11,3 +11,5 @@ related_publications: false
 
 - Analyzed Open University Learning Analytics Dataset (OULAD) logs to characterize student engagement patterns under the **ICAP framework**
 - Built an at-risk student prediction model using feature engineering and data-driven analysis to support early intervention
+
+📄 [HCI Korea 2023 paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229756)
