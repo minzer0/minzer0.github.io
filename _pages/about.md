@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-nav: true
+nav: false # the theme always adds "about" first; true would show it twice
 nav_order: 1
 subtitle: >
   PhD Student in Computer Science · <a href="https://www.comp.nus.edu.sg/" target="_blank">School of Computing</a>, <a href="https://nus.edu.sg/" target="_blank">National University of Singapore</a>
