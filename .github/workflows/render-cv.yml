@@ -1,16 +1,9 @@
 name: Render a CV
+# CV PDF is maintained by hand (assets/pdf/Minyoung_Park_CV.pdf); run manually only.
 on:
-  push:
-    branches:
-      - main
-      - master
-    paths:
-      - "_data/cv.yml"
-      - "assets/rendercv/design.yaml"
-      - "assets/rendercv/locale.yaml"
-      - "assets/rendercv/settings.yaml"
   workflow_call:
   workflow_dispatch:
+
 permissions:
   contents: write
 jobs:
