@@ -124,8 +124,8 @@ cv:
         highlights:
           - "GUI agent technologies for automated UX accessibility evaluation (with NRF, Sep 2025 – Feb 2026): designed a GUI agent for expert-level accessibility evaluation; planned human–AI comparative validation experiments."
           - "Policy framework for AI R&D and investment incentives (with the Ministry of Economy and Finance, May – Sep 2025, Lead Researcher): cross-national review of AI tax incentives; proposed criteria for designating AI as a national strategic technology, adopted in RSITA amendments."
-          - "AI copilot technologies for adaptive, teacher-augmented learning (with IITP, Jul 2023 – Aug 2025): built a counseling chatbot and analysis models for AI-driven student coaching; co-developed an integrated personalized learning platform."
-          - "Self-disclosing chatbot for academic stress assessment (with IITP, Jan 2024 – May 2025, Lead Researcher): developed the chatbot and ran an experiment with 50 university students; analyzed conversation logs and interviews."
+          - "AI copilot technologies for adaptive, teacher-augmented learning (with the Institute for Information & Communications Technology Planning & Evaluation (IITP), Jul 2023 – Aug 2025): built a counseling chatbot and analysis models for AI-driven student coaching; co-developed an integrated personalized learning platform."
+          - "Self-disclosing chatbot for academic stress assessment (with the Institute for Information & Communications Technology Planning & Evaluation (IITP), Jan 2024 – May 2025, Lead Researcher): developed the chatbot and ran an experiment with 50 university students; analyzed conversation logs and interviews."
 
       - company: Human Communication Technologies (HCT) Lab, The University of British Columbia
         position: Visiting Researcher
@@ -134,7 +134,7 @@ cv:
         start_date: 2025-01
         end_date: 2025-02
         highlights:
-          - "Cross-cultural self-disclosing chatbots (with IITP, Lead Researcher): investigated cultural variation in interactions with self-disclosing chatbots; ran pilot studies with UBC students and analyzed conversation logs and interviews."
+          - "Cross-cultural self-disclosing chatbots (with the Institute for Information & Communications Technology Planning & Evaluation (IITP), Lead Researcher): investigated cultural variation in interactions with self-disclosing chatbots; ran pilot studies with UBC students and analyzed conversation logs and interviews."
 
       - company: Human-centered AI (HAI) Lab, Seoul National University of Science and Technology
         position: Undergraduate Researcher

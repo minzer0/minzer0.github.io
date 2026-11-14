@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Self-Disclosing Chatbots for Academic Stress"
-description: "🤝 With IITP. An LLM chatbot that shares its own worries first, helping students reflect more deeply and assess stress more accurately."
+description: "🤝 With the Institute for Information & Communications Technology Planning & Evaluation (IITP). An LLM chatbot that shares its own worries first, helping students reflect more deeply and assess stress more accurately."
 importance: 1
 category: past
 related_publications: false

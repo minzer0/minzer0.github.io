@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "LLMs as Teaching Assistants for Competency Reports"
-description: "🧪 HAI Lab project, alongside the 🤝 IITP AI copilot program. Fine-tuning an LLM to draft student competency reports, and learning where teachers still need to stay in the loop."
+description: "🧪 HAI Lab project. Fine-tuning an LLM to draft student competency reports, and learning where teachers still need to stay in the loop."
 importance: 3
 category: past
 related_publications: false
@@ -9,7 +9,7 @@ related_publications: false
 
 **2023 – 2025 · Research Assistant · [HAI Lab](https://hai.seoultech.ac.kr/index.html), SeoulTech**
 
-🧪 **HAI Lab research project** (2023 – 2024), carried out alongside the program 🤝 **with** [IITP](https://www.iitp.kr/), _AI Copilot Technologies for Adaptive, Teacher-Augmented Learning in Future Classrooms_ (2023 – 2025)
+🧪 **HAI Lab project**
 
 As part of a larger effort on AI copilots for adaptive, teacher-augmented classrooms:
 
