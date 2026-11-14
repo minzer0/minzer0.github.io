@@ -12,7 +12,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>AI4SG Lab &amp; Palette Lab</p>
+    <p><a href="https://sites.google.com/view/ai4sg">AI4SG Lab</a> &amp; <a href="https://palettelab-nus.github.io/">Palette Lab</a></p>
     <p>National University of Singapore</p>
     <p><a href="mailto:mypark@u.nus.edu">mypark@u.nus.edu</a></p>
 
@@ -44,8 +44,8 @@ latest_posts:
   .mp-callout a { font-weight: 600; }
 </style>
 
-Hi! I'm **Minyoung Park** (박민영), a first-year PhD student in Computer Science at the **National University of Singapore (NUS)**, working with
-[Prof. Yi-Chieh Lee](https://www.yclee.net/) at the [AI4SG Lab](https://sites.google.com/view/ai4sg) and [Prof. Jane E](https://ejane.me/) at the Palette Lab.
+Hi! I'm **Minyoung Park**, a first-year PhD student in Computer Science at the **National University of Singapore (NUS)**, working with
+[Prof. Yi-Chieh Lee](https://www.yclee.net/) at the [AI4SG Lab](https://sites.google.com/view/ai4sg) and [Prof. Jane E](https://ejane.me/) at the [Palette Lab](https://palettelab-nus.github.io/).
 
 My research sits at the intersection of **Human-Computer Interaction (HCI)** and **Human-Centered AI**, with a focus on **generative AI for learning**.
 I study how people engage with AI-generated outputs — how they **interpret, adapt, verify, and integrate** them into their own work — and how
