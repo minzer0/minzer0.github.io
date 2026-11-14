@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research projects on conversational AI, learning, and human-centered AI.
+description: Research projects on conversational AI, learning, and human-centered AI, with the partners and funders I worked with.
 nav: true
 nav_order: 3
-display_categories: [research, policy]
+display_categories: [ongoing, past]
 horizontal: true
 ---
 

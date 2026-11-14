@@ -50,7 +50,9 @@ Hi! I'm **Minyoung Park**, a first-year PhD student in Computer Science at the *
 My research sits at the intersection of **Human-Computer Interaction (HCI)** and **Human-Centered AI**, with a focus on **generative AI for learning**.
 I study how people engage with AI-generated outputs — how they **interpret, adapt, verify, and integrate** them into their own work — and how
 these interactions shape learning and human agency. I'm especially interested in designing human-AI systems that support **reflection, agency, and
-self-regulation**, so that people stay actively involved in their own thinking while working with AI.
+self-regulation**, so that people stay actively involved in their own thinking while working with AI. I'm currently collaborating with
+**[Google DeepMind](https://deepmind.google/)** on [*Telling Learning Apart from Outsourcing to AI*](/projects/0_learning_vs_outsourcing/), which asks how we can tell
+when students are genuinely learning with AI and when they are simply outsourcing the work.
 
 <ul class="mp-tags">
   <li>Human-AI Interaction</li>

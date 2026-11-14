@@ -112,6 +112,8 @@ cv:
         location: Singapore
         start_date: 2026-08
         end_date: present
+        highlights:
+          - "Telling Learning Apart from Outsourcing to AI (with [Google DeepMind](https://deepmind.google/), 2026 – present): studying how to distinguish genuine learning from task outsourcing in AI-assisted learning."
 
       - company: Human-centered AI (HAI) Lab, Seoul National University of Science and Technology
         position: Graduate Researcher
@@ -120,10 +122,10 @@ cv:
         start_date: 2024-09
         end_date: present
         highlights:
-          - "GUI agent technologies for automated UX accessibility evaluation (NRF, Sep 2025 – present): designed a GUI agent for expert-level accessibility evaluation; planned human–AI comparative validation experiments."
-          - "Policy framework for AI R&D and investment incentives (MOEF, May – Sep 2025, Lead Researcher): cross-national review of AI tax incentives; proposed criteria for designating AI as a national strategic technology, adopted in RSITA amendments."
-          - "AI copilot technologies for adaptive, teacher-augmented learning (IITP, Jul 2023 – Aug 2025): built a counseling chatbot and analysis models for AI-driven student coaching; co-developed an integrated personalized learning platform."
-          - "Self-disclosing chatbot for academic stress assessment (IITP, Jan 2024 – May 2025, Lead Researcher): developed the chatbot and ran an experiment with 50 university students; analyzed conversation logs and interviews."
+          - "GUI agent technologies for automated UX accessibility evaluation (funded by NRF, Sep 2025 – present): designed a GUI agent for expert-level accessibility evaluation; planned human–AI comparative validation experiments."
+          - "Policy framework for AI R&D and investment incentives (commissioned by the Ministry of Economy and Finance, May – Sep 2025, Lead Researcher): cross-national review of AI tax incentives; proposed criteria for designating AI as a national strategic technology, adopted in RSITA amendments."
+          - "AI copilot technologies for adaptive, teacher-augmented learning (funded by IITP, Jul 2023 – Aug 2025): built a counseling chatbot and analysis models for AI-driven student coaching; co-developed an integrated personalized learning platform."
+          - "Self-disclosing chatbot for academic stress assessment (funded by IITP, Jan 2024 – May 2025, Lead Researcher): developed the chatbot and ran an experiment with 50 university students; analyzed conversation logs and interviews."
 
       - company: Human Communication Technologies (HCT) Lab, The University of British Columbia
         position: Visiting Researcher
@@ -132,7 +134,7 @@ cv:
         start_date: 2025-01
         end_date: 2025-02
         highlights:
-          - "Investigated cultural variation in interactions with self-disclosing chatbots; ran pilot studies with UBC students and analyzed conversation logs and interviews (IITP, Lead Researcher)."
+          - "Cross-cultural self-disclosing chatbots (funded by IITP, Lead Researcher): investigated cultural variation in interactions with self-disclosing chatbots; ran pilot studies with UBC students and analyzed conversation logs and interviews."
 
       - company: Human-centered AI (HAI) Lab, Seoul National University of Science and Technology
         position: Undergraduate Researcher
@@ -141,9 +143,9 @@ cv:
         start_date: 2022-02
         end_date: 2024-08
         highlights:
-          - "LLMs to support teachers (Mar 2023 – Feb 2024): fine-tuned an LLM to generate student competency analysis reports and validated it through expert interviews."
-          - "VR digital biomarkers for early dementia diagnosis (NRF, Mar 2022 – Feb 2024): collected VR kiosk interaction data from MCI and healthy-control participants with Hanyang University Guri Hospital; built multimodal predictive models."
-          - "Prediction of at-risk students from online learning data (Feb 2022 – Feb 2023, Lead Researcher): characterized OULAD engagement patterns under the ICAP framework; built an at-risk prediction model for early intervention."
+          - "LLMs to support teachers (HAI Lab project, Mar 2023 – Feb 2024): fine-tuned an LLM to generate student competency analysis reports and validated it through expert interviews."
+          - "VR digital biomarkers for early dementia diagnosis (funded by NRF, Mar 2022 – Feb 2024): collected VR kiosk interaction data from MCI and healthy-control participants with Hanyang University Guri Hospital; built multimodal predictive models."
+          - "Prediction of at-risk students from online learning data (HAI Lab project, Feb 2022 – Feb 2023, Lead Researcher): characterized OULAD engagement patterns under the ICAP framework; built an at-risk prediction model for early intervention."
 
     Teaching:
       - bullet: "**Teaching Assistant, Human-centered AI** — Seoul National University of Science and Technology, Fall 2025. Co-developed the course syllabus; designed a chatbot development assignment emphasizing safety, accuracy, and human-centered interaction; supported lectures and graded exams."
