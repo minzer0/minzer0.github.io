@@ -7,7 +7,7 @@ category: research
 related_publications: false
 ---
 
-**2022 – 2023 · Lead Researcher · HAI Lab, SeoulTech**
+**2022 – 2023 · Lead Researcher · [HAI Lab](https://hai.seoultech.ac.kr/index.html), SeoulTech**
 
 - Analyzed Open University Learning Analytics Dataset (OULAD) logs to characterize student engagement patterns under the **ICAP framework**
 - Built an at-risk student prediction model using feature engineering and data-driven analysis to support early intervention

@@ -33,6 +33,7 @@ cv:
         end_date: 2026-02
         score: "GPA 4.5/4.5 (Major GPA 4.5/4.5)"
         highlights:
+          - "Advisor: [Prof. Kyoungwon Seo](https://hai.seoultech.ac.kr/members/index.html)"
           - "Thesis: [Designing empathetic self-disclosure in LLM-based chatbots to enhance students' self-reflection, engagement, and assessment accuracy in academic stress assessment](/assets/pdf/Minyoung_Park_MS_Thesis.pdf)"
 
       - institution: Seoul National University of Science and Technology
@@ -106,13 +107,15 @@ cv:
 
     Experience:
       - company: AI4SG Lab & Palette Lab, National University of Singapore
-        position: Graduate Researcher (Advisors — Prof. Yi-Chieh Lee & Prof. Jane E)
+        position: Graduate Researcher
+        summary: "[AI4SG Lab](https://sites.google.com/view/ai4sg) & [Palette Lab](https://palettelab-nus.github.io/) · Advisors: [Prof. Yi-Chieh Lee](https://www.yclee.net/) & [Prof. Jane E](https://ejane.me/)"
         location: Singapore
         start_date: 2026-08
         end_date: present
 
       - company: Human-centered AI (HAI) Lab, Seoul National University of Science and Technology
-        position: Graduate Researcher (Advisor — Prof. Kyoungwon Seo)
+        position: Graduate Researcher
+        summary: "[HAI Lab](https://hai.seoultech.ac.kr/index.html) · Advisor: [Prof. Kyoungwon Seo](https://hai.seoultech.ac.kr/members/index.html)"
         location: Seoul, South Korea
         start_date: 2024-09
         end_date: present
@@ -123,7 +126,8 @@ cv:
           - "Self-disclosing chatbot for academic stress assessment (IITP, Jan 2024 – May 2025, Lead Researcher): developed the chatbot and ran an experiment with 50 university students; analyzed conversation logs and interviews."
 
       - company: Human Communication Technologies (HCT) Lab, The University of British Columbia
-        position: Visiting Researcher (Collaborator — Prof. Sidney Fels)
+        position: Visiting Researcher
+        summary: "[HCT Lab](https://hct-lab.github.io) · Collaborator: [Prof. Sidney Fels](https://ece.ubc.ca/sid-fels/)"
         location: Vancouver, Canada
         start_date: 2025-01
         end_date: 2025-02
@@ -131,7 +135,8 @@ cv:
           - "Investigated cultural variation in interactions with self-disclosing chatbots; ran pilot studies with UBC students and analyzed conversation logs and interviews (IITP, Lead Researcher)."
 
       - company: Human-centered AI (HAI) Lab, Seoul National University of Science and Technology
-        position: Undergraduate Researcher (Advisor — Prof. Kyoungwon Seo)
+        position: Undergraduate Researcher
+        summary: "[HAI Lab](https://hai.seoultech.ac.kr/index.html) · Advisor: [Prof. Kyoungwon Seo](https://hai.seoultech.ac.kr/members/index.html)"
         location: Seoul, South Korea
         start_date: 2022-02
         end_date: 2024-08

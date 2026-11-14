@@ -62,9 +62,9 @@ self-regulation**, so that people stay actively involved in their own thinking w
 </ul>
 
 Before NUS, I received my B.S. and M.S. in Applied Artificial Intelligence from **Seoul National University of Science and Technology**, where I worked
-with [Prof. Kyoungwon Seo](https://hai.seoultech.ac.kr/) at the Human-centered AI (HAI) Lab. My master's thesis designed **empathetic self-disclosure in
-LLM-based chatbots** to help students reflect on and more accurately assess their academic stress. I was also a visiting researcher at the Human
-Communication Technologies (HCT) Lab at the **University of British Columbia**, working with Prof. Sidney Fels on cross-cultural self-disclosing chatbots.
+with [Prof. Kyoungwon Seo](https://hai.seoultech.ac.kr/members/index.html) at the [Human-centered AI (HAI) Lab](https://hai.seoultech.ac.kr/index.html). My master's thesis designed **empathetic self-disclosure in
+LLM-based chatbots** to help students reflect on and more accurately assess their academic stress. I was also a visiting researcher at the [Human
+Communication Technologies (HCT) Lab](https://hct-lab.github.io) at the **University of British Columbia**, working with [Prof. Sidney Fels](https://ece.ubc.ca/sid-fels/) on cross-cultural self-disclosing chatbots.
 
 <div class="mp-callout">
   🗣️ Curious what a self-disclosing chatbot feels like? <a href="https://hai.seoultech.ac.kr/research/demo-self-disclosure.html" target="_blank">Try the live demo →</a>

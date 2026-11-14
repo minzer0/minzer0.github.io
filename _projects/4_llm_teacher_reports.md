@@ -7,7 +7,7 @@ category: research
 related_publications: false
 ---
 
-**2023 – 2025 · Research Assistant · HAI Lab, SeoulTech (IITP & lab project)**
+**2023 – 2025 · Research Assistant · [HAI Lab](https://hai.seoultech.ac.kr/index.html), SeoulTech (IITP & lab project)**
 
 As part of a larger effort on AI copilots for adaptive, teacher-augmented classrooms:
 

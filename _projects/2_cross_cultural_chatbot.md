@@ -7,9 +7,9 @@ category: research
 related_publications: false
 ---
 
-**Jan – Feb 2025 · Visiting Researcher · HCT Lab, University of British Columbia**
+**Jan – Feb 2025 · Visiting Researcher · [HCT Lab](https://hct-lab.github.io), University of British Columbia**
 
-Working with Prof. Sidney Fels, I extended the self-disclosing chatbot to a new cultural context to investigate how interactions with self-disclosing
+Working with [Prof. Sidney Fels](https://ece.ubc.ca/sid-fels/), I extended the self-disclosing chatbot to a new cultural context to investigate how interactions with self-disclosing
 chatbots vary across cultures.
 
 - Conducted pilot studies with UBC students

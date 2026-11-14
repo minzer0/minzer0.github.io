@@ -7,7 +7,7 @@ category: research
 related_publications: false
 ---
 
-**2024 – 2025 · Lead Researcher · HAI Lab, SeoulTech (IITP)**
+**2024 – 2025 · Lead Researcher · [HAI Lab](https://hai.seoultech.ac.kr/index.html), SeoulTech (IITP)**
 
 Ask students about their worries and you often get a word or two. This project asked: what if the chatbot opened up first?
 
