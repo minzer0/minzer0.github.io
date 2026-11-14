@@ -2,11 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Research projects on conversational AI, learning, and human-centered AI.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+display_categories: [research, policy]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
