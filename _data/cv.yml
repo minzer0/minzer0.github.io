@@ -120,12 +120,12 @@ cv:
         summary: "[HAI Lab](https://hai.seoultech.ac.kr/index.html) · Advisor: [Prof. Kyoungwon Seo](https://hai.seoultech.ac.kr/members/index.html)"
         location: Seoul, South Korea
         start_date: 2024-09
-        end_date: present
+        end_date: 2026-02
         highlights:
-          - "GUI agent technologies for automated UX accessibility evaluation (funded by NRF, Sep 2025 – present): designed a GUI agent for expert-level accessibility evaluation; planned human–AI comparative validation experiments."
-          - "Policy framework for AI R&D and investment incentives (commissioned by the Ministry of Economy and Finance, May – Sep 2025, Lead Researcher): cross-national review of AI tax incentives; proposed criteria for designating AI as a national strategic technology, adopted in RSITA amendments."
-          - "AI copilot technologies for adaptive, teacher-augmented learning (funded by IITP, Jul 2023 – Aug 2025): built a counseling chatbot and analysis models for AI-driven student coaching; co-developed an integrated personalized learning platform."
-          - "Self-disclosing chatbot for academic stress assessment (funded by IITP, Jan 2024 – May 2025, Lead Researcher): developed the chatbot and ran an experiment with 50 university students; analyzed conversation logs and interviews."
+          - "GUI agent technologies for automated UX accessibility evaluation (with NRF, Sep 2025 – Feb 2026): designed a GUI agent for expert-level accessibility evaluation; planned human–AI comparative validation experiments."
+          - "Policy framework for AI R&D and investment incentives (with the Ministry of Economy and Finance, May – Sep 2025, Lead Researcher): cross-national review of AI tax incentives; proposed criteria for designating AI as a national strategic technology, adopted in RSITA amendments."
+          - "AI copilot technologies for adaptive, teacher-augmented learning (with IITP, Jul 2023 – Aug 2025): built a counseling chatbot and analysis models for AI-driven student coaching; co-developed an integrated personalized learning platform."
+          - "Self-disclosing chatbot for academic stress assessment (with IITP, Jan 2024 – May 2025, Lead Researcher): developed the chatbot and ran an experiment with 50 university students; analyzed conversation logs and interviews."
 
       - company: Human Communication Technologies (HCT) Lab, The University of British Columbia
         position: Visiting Researcher
@@ -134,7 +134,7 @@ cv:
         start_date: 2025-01
         end_date: 2025-02
         highlights:
-          - "Cross-cultural self-disclosing chatbots (funded by IITP, Lead Researcher): investigated cultural variation in interactions with self-disclosing chatbots; ran pilot studies with UBC students and analyzed conversation logs and interviews."
+          - "Cross-cultural self-disclosing chatbots (with IITP, Lead Researcher): investigated cultural variation in interactions with self-disclosing chatbots; ran pilot studies with UBC students and analyzed conversation logs and interviews."
 
       - company: Human-centered AI (HAI) Lab, Seoul National University of Science and Technology
         position: Undergraduate Researcher
@@ -144,7 +144,7 @@ cv:
         end_date: 2024-08
         highlights:
           - "LLMs to support teachers (HAI Lab project, Mar 2023 – Feb 2024): fine-tuned an LLM to generate student competency analysis reports and validated it through expert interviews."
-          - "VR digital biomarkers for early dementia diagnosis (funded by NRF, Mar 2022 – Feb 2024): collected VR kiosk interaction data from MCI and healthy-control participants with Hanyang University Guri Hospital; built multimodal predictive models."
+          - "VR digital biomarkers for early dementia diagnosis (with NRF, Mar 2022 – Feb 2024): collected VR kiosk interaction data from MCI and healthy-control participants with Hanyang University Guri Hospital; built multimodal predictive models."
           - "Prediction of at-risk students from online learning data (HAI Lab project, Feb 2022 – Feb 2023, Lead Researcher): characterized OULAD engagement patterns under the ICAP framework; built an at-risk prediction model for early intervention."
 
     Teaching:

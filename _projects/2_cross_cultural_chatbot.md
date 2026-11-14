@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Cross-Cultural Self-Disclosing Chatbots"
-description: "With UBC's HCT Lab, funded by IITP. How do students from different cultures respond when a chatbot opens up?"
+description: "🤝 With UBC's HCT Lab and IITP. How do students from different cultures respond when a chatbot opens up?"
 importance: 2
 category: past
 related_publications: false
@@ -9,7 +9,7 @@ related_publications: false
 
 **Jan – Feb 2025 · Visiting Researcher (Lead Researcher) · [HCT Lab](https://hct-lab.github.io), University of British Columbia**
 
-🤝 **In collaboration with:** [HCT Lab](https://hct-lab.github.io), University of British Columbia · 💰 **Funded by:** [IITP](https://www.iitp.kr/)
+🤝 **With:** [HCT Lab](https://hct-lab.github.io), University of British Columbia · [IITP](https://www.iitp.kr/)
 
 Working with [Prof. Sidney Fels](https://ece.ubc.ca/sid-fels/), I extended the self-disclosing chatbot to a new cultural context to investigate how interactions with self-disclosing
 chatbots vary across cultures.

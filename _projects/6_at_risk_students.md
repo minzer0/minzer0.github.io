@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Predicting At-Risk Students from Learning Logs"
-description: "Independent HAI Lab project. Characterizing online engagement through the ICAP framework to predict at-risk students early."
+description: "🧪 Independent HAI Lab project. Characterizing online engagement through the ICAP framework to predict at-risk students early."
 importance: 5
 category: past
 related_publications: false

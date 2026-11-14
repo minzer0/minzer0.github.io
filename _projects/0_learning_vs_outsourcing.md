@@ -9,7 +9,7 @@ related_publications: false
 
 **2026 – present · PhD Researcher · [AI4SG Lab](https://sites.google.com/view/ai4sg), NUS × [Google DeepMind](https://deepmind.google/)**
 
-🤝 **In collaboration with:** [Google DeepMind](https://deepmind.google/) · led at the AI4SG Lab by [Prof. Yi-Chieh Lee](https://www.yclee.net/)
+🤝 **With:** [Google DeepMind](https://deepmind.google/) · led at the AI4SG Lab by [Prof. Yi-Chieh Lee](https://www.yclee.net/)
 
 Students increasingly learn with generative AI, but finishing a task with AI is not the same as learning from it. In this ongoing collaboration with
 Google DeepMind, we study how to **distinguish genuine learning from task outsourcing** in AI-assisted learning, drawing on student–AI interaction logs

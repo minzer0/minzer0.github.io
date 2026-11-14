@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Self-Disclosing Chatbots for Academic Stress"
-description: "Funded by IITP. An LLM chatbot that shares its own worries first, helping students reflect more deeply and assess stress more accurately."
+description: "🤝 With IITP. An LLM chatbot that shares its own worries first, helping students reflect more deeply and assess stress more accurately."
 importance: 1
 category: past
 related_publications: false
@@ -9,7 +9,7 @@ related_publications: false
 
 **2024 – 2025 · Lead Researcher · [HAI Lab](https://hai.seoultech.ac.kr/index.html), SeoulTech**
 
-💰 **Funded by:** [Institute for Information & Communications Technology Planning & Evaluation (IITP)](https://www.iitp.kr/) · 🤝 international collaboration with the [HCT Lab](https://hct-lab.github.io), UBC
+🤝 **With:** [Institute for Information & Communications Technology Planning & Evaluation (IITP)](https://www.iitp.kr/) · international collaboration with the [HCT Lab](https://hct-lab.github.io), UBC
 
 Ask students about their worries and you often get a word or two. This project asked: what if the chatbot opened up first?
 
